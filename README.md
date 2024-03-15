@@ -43,7 +43,7 @@ class Train(models.Model):
  
 class TrainAdmin(admin.ModelAdmin):
     list_display=('Train_code','Train_name','start_time','End_time','start_station_code','End_station_code')
-    ```
+```
 ## OUTPUT
 
 ![alt text](<Screenshot 2024-03-15 100801.png>)
