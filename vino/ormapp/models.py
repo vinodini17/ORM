@@ -3,8 +3,8 @@ from django.contrib import admin
 class Train(models.Model):
     Train_code=models.CharField(max_length=20,primary_key=True)
     Train_name=models.CharField(max_length=100)
-    start_time=models.TimeField()
-    End_time=models.TimeField()
+    start_time=models.DateTimeField()
+    End_time=models.DateTimeField()
     start_station_code=models.CharField(max_length=20)
     End_station_code=models.CharField(max_length=20)
  
