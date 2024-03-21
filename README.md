@@ -48,6 +48,7 @@ class TrainAdmin(admin.ModelAdmin):
     list_display=('Train_code','Train_name','start_time','End_time','start_station_code','End_station_code')
 ```
 ## OUTPUT
-![alt text](<Screenshot 2024-03-19 174858-1.png>)
+<img width="945" alt="Screenshot 2024-03-19 174858" src="https://github.com/vinodini17/ORM/assets/149347288/acc82b9e-8795-46d8-be8e-f076303a49e8">
+
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
