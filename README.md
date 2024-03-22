@@ -7,6 +7,7 @@ To develop a Django application to store and retrieve data from a Train database
 ## ENTITY RELATIONSHIP DIAGRAM
 ![Uploading Screenshot 2024-03-22 142437.png…]()
 
+
 ## DESIGN STEPS
 
 ### STEP 1:
