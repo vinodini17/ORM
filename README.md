@@ -5,7 +5,7 @@
 To develop a Django application to store and retrieve data from a Train database using Object Relational Mapping(ORM).
 
 ## ENTITY RELATIONSHIP DIAGRAM
-![alt text](<Screenshot 2024-03-19 171500.png>)
+<img width="568" alt="Screenshot 2024-03-22 082450" src="https://github.com/vinodini17/ORM/assets/149347288/9ce81661-6a6a-4898-96f0-eb67d4b0ee10">
 
 ## DESIGN STEPS
 
@@ -48,7 +48,7 @@ class TrainAdmin(admin.ModelAdmin):
     list_display=('Train_code','Train_name','start_time','End_time','start_station_code','End_station_code')
 ```
 ## OUTPUT
-<img width="568" alt="Screenshot 2024-03-22 082450" src="https://github.com/vinodini17/ORM/assets/149347288/ac9c5b94-332d-4459-8b48-5796db0bbb03">
+<img width="945" alt="Screenshot 2024-03-19 174858" src="https://github.com/vinodini17/ORM/assets/149347288/1e380525-8ff2-4670-b5d1-5dab9f2571b4">
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
